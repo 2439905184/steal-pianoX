@@ -73,7 +73,7 @@ def ember(token, 我, days=365, save_path='1.png'):
 
 我添加了一个程序入口，修改__main__.py里的参数就行了。然后使用这个运行
 ```ps
-python __main__.py
+python __main__.py token 用户名
 ```
 注意事项：需要在翻墙状态下运行，fastgithub下无法使用，因为是需要访问github api的
 ## 为什么是偷情？？？
